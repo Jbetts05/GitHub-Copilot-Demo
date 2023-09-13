@@ -13,7 +13,7 @@ demo.ipynb
   - Explain code
   - Explain remote repo
   
-demo_r.ipynb
+R-demo.ipynb
 - includes:
   - Reading local data
   - Cleaning data
