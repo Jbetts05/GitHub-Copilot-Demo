@@ -1,7 +1,7 @@
 # GitHub Copilot Demo
 
 2 demo files: 
-demo.ipynb is a Python demo and demo_r is an R example 
+demo.ipynb is a Python demo and R-demo.ipynb is an R example 
 
 demo.ipynb
 - includes:
