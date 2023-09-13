@@ -4,8 +4,8 @@
 demo.ipynb is a Python demo and demo_r is an R example 
 
 demo.ipynb
-- includes:
-  -- Pulling remote data
+* includes:
+  *Pulling remote data
   -- Creating a Random Forest Model
   -- Refactor code
   -- Documenting code
